@@ -1,0 +1,3842 @@
+[
+    {
+        "GEORGETOWN EAST": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 18.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "055 - GEORGETOWN EAST", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 4.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "055 - GEORGETOWN EAST", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 8.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "055 - GEORGETOWN EAST", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 48.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "055 - GEORGETOWN EAST", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 99.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "055 - GEORGETOWN EAST", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 96.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "055 - GEORGETOWN EAST", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 35.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "055 - GEORGETOWN EAST", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 85.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "055 - GEORGETOWN EAST", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "GREENBRIER": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 25.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "007 - GREENBRIER", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 15.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "007 - GREENBRIER", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 33.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "007 - GREENBRIER", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 78.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "007 - GREENBRIER", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 36.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "007 - GREENBRIER", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 81.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "007 - GREENBRIER", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 79.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "007 - GREENBRIER", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 62.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "007 - GREENBRIER", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "NANSEMOND": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 37.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "044 - NANSEMOND", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 60.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "044 - NANSEMOND", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 70.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "044 - NANSEMOND", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 21.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "044 - NANSEMOND", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 89.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "044 - NANSEMOND", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 62.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "044 - NANSEMOND", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 3.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "044 - NANSEMOND", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 22.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "044 - NANSEMOND", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "TANGLEWOOD": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 48.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "029 - TANGLEWOOD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 23.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "029 - TANGLEWOOD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 90.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "029 - TANGLEWOOD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 73.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "029 - TANGLEWOOD", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 64.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "029 - TANGLEWOOD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 41.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "029 - TANGLEWOOD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 100.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "029 - TANGLEWOOD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 41.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "029 - TANGLEWOOD", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "SHIPYARD ROAD": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 47.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "052 - SHIPYARD ROAD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 42.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "052 - SHIPYARD ROAD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 66.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "052 - SHIPYARD ROAD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 91.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "052 - SHIPYARD ROAD", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 17.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "052 - SHIPYARD ROAD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 6.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "052 - SHIPYARD ROAD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 30.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "052 - SHIPYARD ROAD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 60.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "052 - SHIPYARD ROAD", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "CARVER SCHOOL": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 87.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "031 - CARVER SCHOOL", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 73.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "031 - CARVER SCHOOL", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 81.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "031 - CARVER SCHOOL", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 66.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "031 - CARVER SCHOOL", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 68.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "031 - CARVER SCHOOL", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 36.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "031 - CARVER SCHOOL", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 61.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "031 - CARVER SCHOOL", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 74.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "031 - CARVER SCHOOL", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "EXPRESSWAY": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 1.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "058 - EXPRESSWAY", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 88.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "058 - EXPRESSWAY", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 12.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "058 - EXPRESSWAY", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 74.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "058 - EXPRESSWAY", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 45.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "058 - EXPRESSWAY", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 68.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "058 - EXPRESSWAY", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 57.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "058 - EXPRESSWAY", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 7.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "058 - EXPRESSWAY", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "CENTERVILLE": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 85.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "061 - CENTERVILLE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 48.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "061 - CENTERVILLE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 95.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "061 - CENTERVILLE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 57.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "061 - CENTERVILLE", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 48.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "061 - CENTERVILLE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 79.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "061 - CENTERVILLE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 73.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "061 - CENTERVILLE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 95.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "061 - CENTERVILLE", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "HICKORY GROVE": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 39.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "016 - HICKORY GROVE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 85.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "016 - HICKORY GROVE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 74.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "016 - HICKORY GROVE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 90.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "016 - HICKORY GROVE", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 49.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "016 - HICKORY GROVE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 69.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "016 - HICKORY GROVE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 37.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "016 - HICKORY GROVE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 69.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "016 - HICKORY GROVE", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "CAMELOT": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 20.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "003 - CAMELOT", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 35.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "003 - CAMELOT", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 42.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "003 - CAMELOT", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 22.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "003 - CAMELOT", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 52.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "003 - CAMELOT", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 69.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "003 - CAMELOT", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 59.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "003 - CAMELOT", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 5.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "003 - CAMELOT", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "INDIAN RIVER": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 21.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "018 - INDIAN RIVER", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 38.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "018 - INDIAN RIVER", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 7.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "018 - INDIAN RIVER", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 13.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "018 - INDIAN RIVER", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 36.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "018 - INDIAN RIVER", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 80.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "018 - INDIAN RIVER", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 61.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "018 - INDIAN RIVER", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 88.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "018 - INDIAN RIVER", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "BELLS MILL": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 93.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "009 - BELLS MILL", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 23.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "009 - BELLS MILL", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 72.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "009 - BELLS MILL", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 47.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "009 - BELLS MILL", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 55.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "009 - BELLS MILL", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 44.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "009 - BELLS MILL", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 94.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "009 - BELLS MILL", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 95.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "009 - BELLS MILL", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "TAYLOR ROAD": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 1.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "035 - TAYLOR ROAD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 80.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "035 - TAYLOR ROAD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 55.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "035 - TAYLOR ROAD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 78.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "035 - TAYLOR ROAD", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 47.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "035 - TAYLOR ROAD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 23.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "035 - TAYLOR ROAD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 30.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "035 - TAYLOR ROAD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 56.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "035 - TAYLOR ROAD", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "PARKWAYS": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 15.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "042 - PARKWAYS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 83.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "042 - PARKWAYS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 11.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "042 - PARKWAYS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 42.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "042 - PARKWAYS", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 56.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "042 - PARKWAYS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 35.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "042 - PARKWAYS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 59.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "042 - PARKWAYS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 20.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "042 - PARKWAYS", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "SOUTH NORFOLK": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 31.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "030 - SOUTH NORFOLK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 68.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "030 - SOUTH NORFOLK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 69.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "030 - SOUTH NORFOLK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 20.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "030 - SOUTH NORFOLK", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 81.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "030 - SOUTH NORFOLK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 75.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "030 - SOUTH NORFOLK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 32.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "030 - SOUTH NORFOLK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 7.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "030 - SOUTH NORFOLK", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "JOHN T WEST": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 41.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "041 - JOHN T WEST", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 3.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "041 - JOHN T WEST", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 10.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "041 - JOHN T WEST", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 22.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "041 - JOHN T WEST", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 100.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "041 - JOHN T WEST", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 36.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "041 - JOHN T WEST", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 56.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "041 - JOHN T WEST", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 97.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "041 - JOHN T WEST", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "RIVER BIRCH": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 100.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "040 - RIVER BIRCH", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 53.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "040 - RIVER BIRCH", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 93.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "040 - RIVER BIRCH", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 23.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "040 - RIVER BIRCH", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 55.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "040 - RIVER BIRCH", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 5.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "040 - RIVER BIRCH", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 3.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "040 - RIVER BIRCH", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 36.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "040 - RIVER BIRCH", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "JOLLIFF MIDDLE SCHOOL": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 25.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "048 - JOLLIFF MIDDLE SCHOOL", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 89.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "048 - JOLLIFF MIDDLE SCHOOL", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 63.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "048 - JOLLIFF MIDDLE SCHOOL", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 83.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "048 - JOLLIFF MIDDLE SCHOOL", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 75.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "048 - JOLLIFF MIDDLE SCHOOL", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 16.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "048 - JOLLIFF MIDDLE SCHOOL", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 59.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "048 - JOLLIFF MIDDLE SCHOOL", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 86.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "048 - JOLLIFF MIDDLE SCHOOL", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "JOLLIFF": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 70.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "019 - JOLLIFF", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 50.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "019 - JOLLIFF", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 67.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "019 - JOLLIFF", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 95.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "019 - JOLLIFF", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 2.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "019 - JOLLIFF", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 35.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "019 - JOLLIFF", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 97.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "019 - JOLLIFF", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 48.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "019 - JOLLIFF", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "ST JULIANS": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 33.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "025 - ST JULIANS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 51.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "025 - ST JULIANS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 26.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "025 - ST JULIANS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 72.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "025 - ST JULIANS", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 27.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "025 - ST JULIANS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 81.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "025 - ST JULIANS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 13.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "025 - ST JULIANS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 71.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "025 - ST JULIANS", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "OAK GROVE": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 18.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "023 - OAK GROVE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 66.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "023 - OAK GROVE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 41.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "023 - OAK GROVE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 53.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "023 - OAK GROVE", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 82.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "023 - OAK GROVE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 63.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "023 - OAK GROVE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 90.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "023 - OAK GROVE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 35.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "023 - OAK GROVE", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "FENTRESS": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 11.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "062 - FENTRESS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 86.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "062 - FENTRESS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 85.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "062 - FENTRESS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 77.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "062 - FENTRESS", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 3.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "062 - FENTRESS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 67.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "062 - FENTRESS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 72.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "062 - FENTRESS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 61.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "062 - FENTRESS", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "GENEVA PARK": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 84.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "011 - GENEVA PARK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 30.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "011 - GENEVA PARK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 69.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "011 - GENEVA PARK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 45.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "011 - GENEVA PARK", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 76.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "011 - GENEVA PARK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 76.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "011 - GENEVA PARK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 42.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "011 - GENEVA PARK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 78.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "011 - GENEVA PARK", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "DEEP CREEK": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 20.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "006 - DEEP CREEK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 44.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "006 - DEEP CREEK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 76.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "006 - DEEP CREEK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 65.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "006 - DEEP CREEK", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 47.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "006 - DEEP CREEK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 33.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "006 - DEEP CREEK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 65.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "006 - DEEP CREEK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 36.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "006 - DEEP CREEK", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "GRASSFIELD": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 80.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "014 - GRASSFIELD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 19.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "014 - GRASSFIELD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 9.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "014 - GRASSFIELD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 4.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "014 - GRASSFIELD", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 51.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "014 - GRASSFIELD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 10.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "014 - GRASSFIELD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 89.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "014 - GRASSFIELD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 19.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "014 - GRASSFIELD", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "GREAT BRIDGE BAPTIST CHURCH": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 89.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "036 - GREAT BRIDGE BAPTIST CHURCH", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 44.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "036 - GREAT BRIDGE BAPTIST CHURCH", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 57.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "036 - GREAT BRIDGE BAPTIST CHURCH", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 99.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "036 - GREAT BRIDGE BAPTIST CHURCH", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 54.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "036 - GREAT BRIDGE BAPTIST CHURCH", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 14.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "036 - GREAT BRIDGE BAPTIST CHURCH", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 70.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "036 - GREAT BRIDGE BAPTIST CHURCH", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 11.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "036 - GREAT BRIDGE BAPTIST CHURCH", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "OSCAR SMITH": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 58.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "010 - OSCAR SMITH", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 77.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "010 - OSCAR SMITH", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 44.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "010 - OSCAR SMITH", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 95.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "010 - OSCAR SMITH", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 45.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "010 - OSCAR SMITH", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 1.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "010 - OSCAR SMITH", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 47.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "010 - OSCAR SMITH", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 76.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "010 - OSCAR SMITH", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "CYPRESS": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 60.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "057 - CYPRESS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 26.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "057 - CYPRESS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 94.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "057 - CYPRESS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 2.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "057 - CYPRESS", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 51.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "057 - CYPRESS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 55.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "057 - CYPRESS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 47.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "057 - CYPRESS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 37.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "057 - CYPRESS", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "B M WILLIAMS": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 88.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "015 - B M WILLIAMS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 12.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "015 - B M WILLIAMS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 36.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "015 - B M WILLIAMS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 38.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "015 - B M WILLIAMS", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 89.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "015 - B M WILLIAMS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 50.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "015 - B M WILLIAMS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 26.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "015 - B M WILLIAMS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 25.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "015 - B M WILLIAMS", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "PLEASANT CROSSING": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 21.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "043 - PLEASANT CROSSING", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 86.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "043 - PLEASANT CROSSING", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 62.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "043 - PLEASANT CROSSING", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 87.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "043 - PLEASANT CROSSING", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 26.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "043 - PLEASANT CROSSING", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 24.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "043 - PLEASANT CROSSING", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 41.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "043 - PLEASANT CROSSING", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 52.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "043 - PLEASANT CROSSING", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "NORFOLK HIGHLANDS": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 87.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "022 - NORFOLK HIGHLANDS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 44.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "022 - NORFOLK HIGHLANDS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 33.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "022 - NORFOLK HIGHLANDS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 8.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "022 - NORFOLK HIGHLANDS", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 93.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "022 - NORFOLK HIGHLANDS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 70.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "022 - NORFOLK HIGHLANDS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 58.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "022 - NORFOLK HIGHLANDS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 81.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "022 - NORFOLK HIGHLANDS", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "GREAT BRIDGE": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 94.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "001 - GREAT BRIDGE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 43.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "001 - GREAT BRIDGE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 95.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "001 - GREAT BRIDGE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 78.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "001 - GREAT BRIDGE", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 99.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "001 - GREAT BRIDGE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 83.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "001 - GREAT BRIDGE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 99.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "001 - GREAT BRIDGE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 17.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "001 - GREAT BRIDGE", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "GREEN TREE": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 58.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "056 - GREEN TREE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 79.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "056 - GREEN TREE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 76.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "056 - GREEN TREE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 99.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "056 - GREEN TREE", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 22.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "056 - GREEN TREE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 88.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "056 - GREEN TREE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 85.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "056 - GREEN TREE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 83.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "056 - GREEN TREE", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "WESTOVER": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 69.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "033 - WESTOVER", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 26.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "033 - WESTOVER", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 12.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "033 - WESTOVER", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 69.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "033 - WESTOVER", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 71.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "033 - WESTOVER", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 22.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "033 - WESTOVER", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 96.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "033 - WESTOVER", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 4.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "033 - WESTOVER", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "SOUTH NORFOLK RECREATION": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 46.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "008 - SOUTH NORFOLK RECREATION", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 79.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "008 - SOUTH NORFOLK RECREATION", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 59.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "008 - SOUTH NORFOLK RECREATION", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 77.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "008 - SOUTH NORFOLK RECREATION", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 74.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "008 - SOUTH NORFOLK RECREATION", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 46.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "008 - SOUTH NORFOLK RECREATION", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 29.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "008 - SOUTH NORFOLK RECREATION", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 88.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "008 - SOUTH NORFOLK RECREATION", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "OAKLETTE": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 63.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "024 - OAKLETTE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 84.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "024 - OAKLETTE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 3.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "024 - OAKLETTE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 25.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "024 - OAKLETTE", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 80.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "024 - OAKLETTE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 21.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "024 - OAKLETTE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 14.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "024 - OAKLETTE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 41.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "024 - OAKLETTE", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "SILVERWOOD": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 49.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "027 - SILVERWOOD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 93.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "027 - SILVERWOOD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 42.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "027 - SILVERWOOD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 2.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "027 - SILVERWOOD", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 11.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "027 - SILVERWOOD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 64.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "027 - SILVERWOOD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 57.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "027 - SILVERWOOD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 83.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "027 - SILVERWOOD", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "PROVIDENCE": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 43.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "032 - PROVIDENCE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 31.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "032 - PROVIDENCE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 2.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "032 - PROVIDENCE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 11.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "032 - PROVIDENCE", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 88.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "032 - PROVIDENCE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 14.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "032 - PROVIDENCE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 92.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "032 - PROVIDENCE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 91.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "032 - PROVIDENCE", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "HICKORY MIDDLE SCHOOL": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 17.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "034 - HICKORY MIDDLE SCHOOL", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 28.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "034 - HICKORY MIDDLE SCHOOL", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 60.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "034 - HICKORY MIDDLE SCHOOL", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 3.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "034 - HICKORY MIDDLE SCHOOL", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 71.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "034 - HICKORY MIDDLE SCHOOL", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 48.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "034 - HICKORY MIDDLE SCHOOL", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 18.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "034 - HICKORY MIDDLE SCHOOL", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 89.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "034 - HICKORY MIDDLE SCHOOL", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "BETHEL": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 88.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "002 - BETHEL", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 26.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "002 - BETHEL", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 37.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "002 - BETHEL", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 98.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "002 - BETHEL", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 9.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "002 - BETHEL", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 95.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "002 - BETHEL", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 91.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "002 - BETHEL", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 41.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "002 - BETHEL", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "PUGHSVILLE": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 47.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "054 - PUGHSVILLE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 46.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "054 - PUGHSVILLE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 70.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "054 - PUGHSVILLE", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 6.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "054 - PUGHSVILLE", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 81.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "054 - PUGHSVILLE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 25.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "054 - PUGHSVILLE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 17.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "054 - PUGHSVILLE", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 46.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "054 - PUGHSVILLE", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "INDIAN CREEK": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 72.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "017 - INDIAN CREEK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 33.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "017 - INDIAN CREEK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 69.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "017 - INDIAN CREEK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 39.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "017 - INDIAN CREEK", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 39.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "017 - INDIAN CREEK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 90.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "017 - INDIAN CREEK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 7.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "017 - INDIAN CREEK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 10.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "017 - INDIAN CREEK", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "POPLAR BRANCH": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 16.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "063 - POPLAR BRANCH", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 25.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "063 - POPLAR BRANCH", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 33.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "063 - POPLAR BRANCH", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 63.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "063 - POPLAR BRANCH", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 1.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "063 - POPLAR BRANCH", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 16.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "063 - POPLAR BRANCH", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 13.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "063 - POPLAR BRANCH", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 74.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "063 - POPLAR BRANCH", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "FAIRWAYS": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 17.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "053 - FAIRWAYS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 40.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "053 - FAIRWAYS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 33.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "053 - FAIRWAYS", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 4.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "053 - FAIRWAYS", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 76.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "053 - FAIRWAYS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 17.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "053 - FAIRWAYS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 77.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "053 - FAIRWAYS", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 71.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "053 - FAIRWAYS", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "LAKE DRUMMOND": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 22.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "039 - LAKE DRUMMOND", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 72.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "039 - LAKE DRUMMOND", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 14.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "039 - LAKE DRUMMOND", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 67.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "039 - LAKE DRUMMOND", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 66.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "039 - LAKE DRUMMOND", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 80.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "039 - LAKE DRUMMOND", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 56.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "039 - LAKE DRUMMOND", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 2.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "039 - LAKE DRUMMOND", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "E W CHITTUM": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 33.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "020 - E W CHITTUM", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 85.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "020 - E W CHITTUM", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 52.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "020 - E W CHITTUM", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 52.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "020 - E W CHITTUM", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 63.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "020 - E W CHITTUM", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 40.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "020 - E W CHITTUM", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 13.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "020 - E W CHITTUM", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 11.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "020 - E W CHITTUM", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "CRESTWOOD": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 51.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "005 - CRESTWOOD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 82.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "005 - CRESTWOOD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 62.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "005 - CRESTWOOD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 24.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "005 - CRESTWOOD", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 72.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "005 - CRESTWOOD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 8.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "005 - CRESTWOOD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 17.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "005 - CRESTWOOD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 12.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "005 - CRESTWOOD", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "BELLS MILL II": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 53.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "046 - BELLS MILL II", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 54.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "046 - BELLS MILL II", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 88.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "046 - BELLS MILL II", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 16.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "046 - BELLS MILL II", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 52.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "046 - BELLS MILL II", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 52.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "046 - BELLS MILL II", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 86.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "046 - BELLS MILL II", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 59.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "046 - BELLS MILL II", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "BAILEY CREEK": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 8.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "038 - BAILEY CREEK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 61.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "038 - BAILEY CREEK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 92.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "038 - BAILEY CREEK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 14.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "038 - BAILEY CREEK", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 25.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "038 - BAILEY CREEK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 71.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "038 - BAILEY CREEK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 57.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "038 - BAILEY CREEK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 94.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "038 - BAILEY CREEK", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "Absentee": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 4.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "##Central Absentee", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 60.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "##Central Absentee", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 28.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "##Central Absentee", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 75.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "##Central Absentee", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 89.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "##Central Absentee", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 93.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "##Central Absentee", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 36.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "##Central Absentee", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 9.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "##Central Absentee", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "FELLOWSHIP": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 75.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "021 - FELLOWSHIP", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 82.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "021 - FELLOWSHIP", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 93.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "021 - FELLOWSHIP", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 59.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "021 - FELLOWSHIP", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 6.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "021 - FELLOWSHIP", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 37.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "021 - FELLOWSHIP", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 84.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "021 - FELLOWSHIP", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 55.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "021 - FELLOWSHIP", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "PARKER ROAD": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 48.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "060 - PARKER ROAD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 18.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "060 - PARKER ROAD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 83.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "060 - PARKER ROAD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 78.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "060 - PARKER ROAD", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 78.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "060 - PARKER ROAD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 45.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "060 - PARKER ROAD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 7.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "060 - PARKER ROAD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 23.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "060 - PARKER ROAD", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "WATERWAY": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 83.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "049 - WATERWAY", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 86.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "049 - WATERWAY", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 27.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "049 - WATERWAY", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 32.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "049 - WATERWAY", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 55.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "049 - WATERWAY", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 41.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "049 - WATERWAY", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 35.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "049 - WATERWAY", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 64.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "049 - WATERWAY", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "CHURCHLAND": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 53.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "004 - CHURCHLAND", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 73.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "004 - CHURCHLAND", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 17.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "004 - CHURCHLAND", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 80.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "004 - CHURCHLAND", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 36.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "004 - CHURCHLAND", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 65.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "004 - CHURCHLAND", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 45.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "004 - CHURCHLAND", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 68.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "004 - CHURCHLAND", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "GEORGETOWN": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 12.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "012 - GEORGETOWN", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 99.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "012 - GEORGETOWN", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 39.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "012 - GEORGETOWN", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 55.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "012 - GEORGETOWN", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 64.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "012 - GEORGETOWN", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 20.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "012 - GEORGETOWN", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 43.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "012 - GEORGETOWN", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 5.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "012 - GEORGETOWN", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "SUNRAY I": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 2.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "028 - SUNRAY I", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 39.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "028 - SUNRAY I", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 92.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "028 - SUNRAY I", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 29.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "028 - SUNRAY I", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 14.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "028 - SUNRAY I", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 76.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "028 - SUNRAY I", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 3.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "028 - SUNRAY I", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 29.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "028 - SUNRAY I", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "JOHNSON PARK": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 71.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "026 - JOHNSON PARK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 61.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "026 - JOHNSON PARK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 30.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "026 - JOHNSON PARK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 33.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "026 - JOHNSON PARK", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 41.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "026 - JOHNSON PARK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 84.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "026 - JOHNSON PARK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 64.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "026 - JOHNSON PARK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 94.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "026 - JOHNSON PARK", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "BRIDGETOWN": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 30.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "037 - BRIDGETOWN", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 21.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "037 - BRIDGETOWN", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 92.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "037 - BRIDGETOWN", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 12.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "037 - BRIDGETOWN", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 1.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "037 - BRIDGETOWN", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 19.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "037 - BRIDGETOWN", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 81.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "037 - BRIDGETOWN", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 15.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "037 - BRIDGETOWN", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "COOPERS WAY": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 75.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "051 - COOPERS WAY", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 55.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "051 - COOPERS WAY", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 49.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "051 - COOPERS WAY", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 41.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "051 - COOPERS WAY", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 12.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "051 - COOPERS WAY", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 89.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "051 - COOPERS WAY", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 61.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "051 - COOPERS WAY", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 58.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "051 - COOPERS WAY", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "GREEN SEA": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 52.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "047 - GREEN SEA", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 43.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "047 - GREEN SEA", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 78.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "047 - GREEN SEA", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 5.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "047 - GREEN SEA", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 96.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "047 - GREEN SEA", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 71.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "047 - GREEN SEA", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 23.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "047 - GREEN SEA", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 61.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "047 - GREEN SEA", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "CLEARFIELD": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 32.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "059 - CLEARFIELD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 57.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "059 - CLEARFIELD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 76.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "059 - CLEARFIELD", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 81.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "059 - CLEARFIELD", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 42.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "059 - CLEARFIELD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 9.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "059 - CLEARFIELD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 85.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "059 - CLEARFIELD", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 39.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "059 - CLEARFIELD", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "RIVER WALK": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 2.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "050 - RIVER WALK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 48.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "050 - RIVER WALK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 52.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "050 - RIVER WALK", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 31.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "050 - RIVER WALK", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 37.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "050 - RIVER WALK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 85.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "050 - RIVER WALK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 9.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "050 - RIVER WALK", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 95.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "050 - RIVER WALK", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "GILMERTON": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 20.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "013 - GILMERTON", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 47.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "013 - GILMERTON", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 9.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "013 - GILMERTON", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 92.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "013 - GILMERTON", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 75.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "013 - GILMERTON", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 51.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "013 - GILMERTON", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 25.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "013 - GILMERTON", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 87.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "013 - GILMERTON", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "SUNRAY II": [
+            {
+                "216.0": [
+                    {
+                        "total_votes": 41.0, 
+                        "candidateId": 411.0, 
+                        "precinct_name": "045 - SUNRAY II", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 9.0, 
+                        "candidateId": 485.0, 
+                        "precinct_name": "045 - SUNRAY II", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 50.0, 
+                        "candidateId": 546.0, 
+                        "precinct_name": "045 - SUNRAY II", 
+                        "officeId": 216.0
+                    }, 
+                    {
+                        "total_votes": 48.0, 
+                        "candidateId": 804.0, 
+                        "precinct_name": "045 - SUNRAY II", 
+                        "officeId": 216.0
+                    }
+                ]
+            }, 
+            {
+                "191.0": [
+                    {
+                        "total_votes": 89.0, 
+                        "candidateId": 326.0, 
+                        "precinct_name": "045 - SUNRAY II", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 77.0, 
+                        "candidateId": 362.0, 
+                        "precinct_name": "045 - SUNRAY II", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 70.0, 
+                        "candidateId": 436.0, 
+                        "precinct_name": "045 - SUNRAY II", 
+                        "officeId": 191.0
+                    }, 
+                    {
+                        "total_votes": 78.0, 
+                        "candidateId": 779.0, 
+                        "precinct_name": "045 - SUNRAY II", 
+                        "officeId": 191.0
+                    }
+                ]
+            }
+        ]
+    }
+]

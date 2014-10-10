@@ -1,0 +1,41 @@
+{
+    "216.0": [
+        {
+            "office_name": "Member House of Representatives", 
+            "candidateId": 411.0, 
+            "candidate_name": "Bo C. Brown", 
+            "vote_pct": 0.25012322274881515, 
+            "officeId": 216.0, 
+            "party": "Libertarian", 
+            "total_votes": 13194.0
+        }, 
+        {
+            "office_name": "Member House of Representatives", 
+            "candidateId": 485.0, 
+            "candidate_name": "J. Randy Forbes", 
+            "vote_pct": 0.2524170616113744, 
+            "officeId": 216.0, 
+            "party": "Republican", 
+            "total_votes": 13315.0
+        }, 
+        {
+            "office_name": "Member House of Representatives", 
+            "candidateId": 546.0, 
+            "candidate_name": "Elliott G. Fausz", 
+            "vote_pct": 0.25054028436018955, 
+            "officeId": 216.0, 
+            "party": "Democrat", 
+            "total_votes": 13216.0
+        }, 
+        {
+            "office_name": "Member House of Representatives", 
+            "candidateId": 804.0, 
+            "candidate_name": "Write-in", 
+            "vote_pct": 0.24691943127962085, 
+            "officeId": 216.0, 
+            "party": "None", 
+            "total_votes": 13025.0
+        }
+    ], 
+    "precincts": {"216.0":{"reported":257,"total":257}}
+}

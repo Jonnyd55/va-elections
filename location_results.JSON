@@ -1,0 +1,265 @@
+{
+    "117.0": [
+        {
+            "office_name": "Member School Board", 
+            "candidateId": 265.0, 
+            "candidate_name": "Lynn F. Briley", 
+            "vote_pct": 0.1165644171779141, 
+            "officeId": 117.0, 
+            "party": "Independent", 
+            "total_votes": 57.0
+        }, 
+        {
+            "office_name": "Member School Board", 
+            "candidateId": 354.0, 
+            "candidate_name": "Joseph A. Fleming", 
+            "vote_pct": 0.1083844580777096, 
+            "officeId": 117.0, 
+            "party": "Independent", 
+            "total_votes": 53.0
+        }, 
+        {
+            "office_name": "Member School Board", 
+            "candidateId": 389.0, 
+            "candidate_name": "Cardell C. Patillo, Jr.", 
+            "vote_pct": 0.06339468302658487, 
+            "officeId": 117.0, 
+            "party": "Independent", 
+            "total_votes": 31.0
+        }, 
+        {
+            "office_name": "Member School Board", 
+            "candidateId": 443.0, 
+            "candidate_name": "Linda D. Ridenour", 
+            "vote_pct": 0.05112474437627812, 
+            "officeId": 117.0, 
+            "party": "Independent", 
+            "total_votes": 25.0
+        }, 
+        {
+            "office_name": "Member School Board", 
+            "candidateId": 495.0, 
+            "candidate_name": "Claude C. Parent, Jr.", 
+            "vote_pct": 0.17791411042944785, 
+            "officeId": 117.0, 
+            "party": "Independent", 
+            "total_votes": 87.0
+        }, 
+        {
+            "office_name": "Member School Board", 
+            "candidateId": 528.0, 
+            "candidate_name": "Laura L. M. MacIntyre", 
+            "vote_pct": 0.1901840490797546, 
+            "officeId": 117.0, 
+            "party": "Independent", 
+            "total_votes": 93.0
+        }, 
+        {
+            "office_name": "Member School Board", 
+            "candidateId": 538.0, 
+            "candidate_name": "Ingrid P. Whitaker", 
+            "vote_pct": 0.12883435582822086, 
+            "officeId": 117.0, 
+            "party": "Independent", 
+            "total_votes": 63.0
+        }, 
+        {
+            "office_name": "Member School Board", 
+            "candidateId": 564.0, 
+            "candidate_name": "Kintrell M. Devin", 
+            "vote_pct": 0.032719836400818, 
+            "officeId": 117.0, 
+            "party": "Independent", 
+            "total_votes": 16.0
+        }, 
+        {
+            "office_name": "Member School Board", 
+            "candidateId": 576.0, 
+            "candidate_name": "C. J. Bodnar", 
+            "vote_pct": 0.12678936605316973, 
+            "officeId": 117.0, 
+            "party": "Independent", 
+            "total_votes": 62.0
+        }, 
+        {
+            "office_name": "Member School Board", 
+            "candidateId": 705.0, 
+            "candidate_name": "Write-in", 
+            "vote_pct": 0.00408997955010225, 
+            "officeId": 117.0, 
+            "party": "None", 
+            "total_votes": 2.0
+        }
+    ], 
+    "181.0": [
+        {
+            "office_name": "Member City Council", 
+            "candidateId": 284.0, 
+            "candidate_name": "Donna Biggs Sayegh", 
+            "vote_pct": 0.09327548806941431, 
+            "officeId": 181.0, 
+            "party": "Independent", 
+            "total_votes": 43.0
+        }, 
+        {
+            "office_name": "Member City Council", 
+            "candidateId": 292.0, 
+            "candidate_name": "Nathan J. Clark", 
+            "vote_pct": 0.08893709327548807, 
+            "officeId": 181.0, 
+            "party": "Independent", 
+            "total_votes": 41.0
+        }, 
+        {
+            "office_name": "Member City Council", 
+            "candidateId": 375.0, 
+            "candidate_name": "Paige D. Cherry", 
+            "vote_pct": 0.2039045553145336, 
+            "officeId": 181.0, 
+            "party": "Independent", 
+            "total_votes": 94.0
+        }, 
+        {
+            "office_name": "Member City Council", 
+            "candidateId": 452.0, 
+            "candidate_name": "Mark M. Whitaker", 
+            "vote_pct": 0.015184381778741865, 
+            "officeId": 181.0, 
+            "party": "Independent", 
+            "total_votes": 7.0
+        }, 
+        {
+            "office_name": "Member City Council", 
+            "candidateId": 457.0, 
+            "candidate_name": "Michael D. Green - Withdrawn", 
+            "vote_pct": 0.12364425162689804, 
+            "officeId": 181.0, 
+            "party": "Independent", 
+            "total_votes": 57.0
+        }, 
+        {
+            "office_name": "Member City Council", 
+            "candidateId": 522.0, 
+            "candidate_name": "Marlene W. Randall - Withdrawn", 
+            "vote_pct": 0.2039045553145336, 
+            "officeId": 181.0, 
+            "party": "Independent", 
+            "total_votes": 94.0
+        }, 
+        {
+            "office_name": "Member City Council", 
+            "candidateId": 559.0, 
+            "candidate_name": "Gary W. Waters", 
+            "vote_pct": 0.11279826464208242, 
+            "officeId": 181.0, 
+            "party": "Independent", 
+            "total_votes": 52.0
+        }, 
+        {
+            "office_name": "Member City Council", 
+            "candidateId": 587.0, 
+            "candidate_name": "William E. "Bill" Moody, Jr.", 
+            "vote_pct": 0.14967462039045554, 
+            "officeId": 181.0, 
+            "party": "Independent", 
+            "total_votes": 69.0
+        }, 
+        {
+            "office_name": "Member City Council", 
+            "candidateId": 769.0, 
+            "candidate_name": "Write-in", 
+            "vote_pct": 0.008676789587852495, 
+            "officeId": 181.0, 
+            "party": "None", 
+            "total_votes": 4.0
+        }
+    ], 
+    "156.0": [
+        {
+            "office_name": "Member House of Representatives", 
+            "candidateId": 440.0, 
+            "candidate_name": "Robert C. "Bobby" Scott", 
+            "vote_pct": 0.5229328165374677, 
+            "officeId": 156.0, 
+            "party": "Democrat", 
+            "total_votes": 1619.0
+        }, 
+        {
+            "office_name": "Member House of Representatives", 
+            "candidateId": 744.0, 
+            "candidate_name": "Write-in", 
+            "vote_pct": 0.4770671834625323, 
+            "officeId": 156.0, 
+            "party": "None", 
+            "total_votes": 1477.0
+        }
+    ], 
+    "31.0": [
+        {
+            "office_name": "Member School Board - Special", 
+            "candidateId": 71.0, 
+            "candidate_name": "Laural J. Armstrong", 
+            "vote_pct": 0.12322274881516587, 
+            "officeId": 31.0, 
+            "party": "Independent", 
+            "total_votes": 26.0
+        }, 
+        {
+            "office_name": "Member School Board - Special", 
+            "candidateId": 72.0, 
+            "candidate_name": "Sarah Duncan Hinds", 
+            "vote_pct": 0.4312796208530806, 
+            "officeId": 31.0, 
+            "party": "Independent", 
+            "total_votes": 91.0
+        }, 
+        {
+            "office_name": "Member School Board - Special", 
+            "candidateId": 619.0, 
+            "candidate_name": "Write-in", 
+            "vote_pct": 0.44549763033175355, 
+            "officeId": 31.0, 
+            "party": "None", 
+            "total_votes": 94.0
+        }
+    ], 
+    "191.0": [
+        {
+            "office_name": "United States Senate", 
+            "candidateId": 326.0, 
+            "candidate_name": "Mark R. Warner", 
+            "vote_pct": 0.2700283455169327, 
+            "officeId": 191.0, 
+            "party": "Democrat", 
+            "total_votes": 1810.0
+        }, 
+        {
+            "office_name": "United States Senate", 
+            "candidateId": 362.0, 
+            "candidate_name": "Ed W. Gillespie", 
+            "vote_pct": 0.2809189914963449, 
+            "officeId": 191.0, 
+            "party": "Republican", 
+            "total_votes": 1883.0
+        }, 
+        {
+            "office_name": "United States Senate", 
+            "candidateId": 436.0, 
+            "candidate_name": "Robert C. Sarvis", 
+            "vote_pct": 0.1993137401163658, 
+            "officeId": 191.0, 
+            "party": "Libertarian", 
+            "total_votes": 1336.0
+        }, 
+        {
+            "office_name": "United States Senate", 
+            "candidateId": 779.0, 
+            "candidate_name": "Write-in", 
+            "vote_pct": 0.24973892287035657, 
+            "officeId": 191.0, 
+            "party": "None", 
+            "total_votes": 1674.0
+        }
+    ],
+    "precincts": {"31.0":{"reported":1,"total":1},"117.0":{"reported":1,"total":1},"156.0":{"reported":32,"total":32},"181.0":{"reported":1,"total":1},"191.0":{"reported":32,"total":32}}, 
+}
