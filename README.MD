@@ -25,6 +25,8 @@ Example cases:
 
     import va_elections as Results
     
+    data = '14_test.csv'
+    
     #Instaniate your classes
     location = Results.Location(data)
     race = Results.Race(data)
