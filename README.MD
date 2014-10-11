@@ -23,6 +23,8 @@ The files
 Example cases:
 ---
 
+    import va_elections as Results
+    
     #Instaniate your classes
     location = Results.Location(data)
     race = Results.Race(data)
